@@ -1,0 +1,6 @@
+@HospitalStigma.Web_HostAddress = http://localhost:5029
+
+GET {{HospitalStigma.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
